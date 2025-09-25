@@ -1,0 +1,10 @@
+# Ignore sources file
+sources.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment file
+.env
