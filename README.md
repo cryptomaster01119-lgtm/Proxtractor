@@ -71,7 +71,7 @@ Or Base64-encoded (script supports both):
 
 ```
 aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Byby9wcm94eXMudHh0
-```
+``` (the base sources.txt has about `1.023.119` proxys to be verified.)
 
 ---
 
