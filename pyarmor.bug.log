@@ -1,0 +1,12 @@
+[BUG]: no found input "src/foo.py"
+
+## Command Line
+/data/data/com.termux/files/usr/bin/pyarmor gen src/foo.py
+
+## Environments
+Python 3.12.11
+Pyarmor 9.1.9 (trial), 000000, non-profits
+Platform android.aarch64
+Native linux.aarch64
+Home /data/data/com.termux/files/home/.pyarmor
+
